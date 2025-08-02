@@ -7599,7 +7599,7 @@ a.anchor-link {
     <span class="n">data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'/datasets/games.csv'</span><span class="p">)</span>  <span class="c1"># Для практикума</span>
 <span class="k">except</span> <span class="ne">FileNotFoundError</span><span class="p">:</span>
     <span class="k">try</span><span class="p">:</span>
-        <span class="n">data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'Модуль 1 спринт 1/games.csv'</span><span class="p">)</span>  <span class="c1"># Если файл локальный</span>
+        <span class="n">data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'../Модуль 1 спринт 1/games.csv'</span><span class="p">)</span>  <span class="c1"># Если файл локальный</span>
     <span class="k">except</span> <span class="ne">FileNotFoundError</span><span class="p">:</span>
         <span class="k">try</span><span class="p">:</span>
             <span class="n">data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'/content/drive/MyDrive/Colab Notebooks/Модуль 1/Модуль 1 спринт 1/real_estate_data.csv'</span><span class="p">,</span> <span class="n">sep</span><span class="o">=</span><span class="s1">'</span><span class="se">\t</span><span class="s1">'</span><span class="p">)</span>  <span class="c1"># Для Google Colab</span>

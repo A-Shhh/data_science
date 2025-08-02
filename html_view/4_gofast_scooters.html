@@ -7593,9 +7593,9 @@ a.anchor-link {
     <span class="n">subscriptions_go</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'/datasets/subscriptions_go.csv'</span><span class="p">)</span>
 <span class="k">except</span> <span class="ne">FileNotFoundError</span><span class="p">:</span>
     <span class="k">try</span><span class="p">:</span>
-        <span class="n">users_go</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'Модуль 1 спринт 1/users_go.csv'</span><span class="p">)</span>  <span class="c1"># Если файл локальный</span>
-        <span class="n">rides_go</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'Модуль 1 спринт 1/rides_go.csv'</span><span class="p">)</span>
-        <span class="n">subscriptions_go</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'Модуль 1 спринт 1/subscriptions_go.csv'</span><span class="p">)</span>
+        <span class="n">users_go</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'../Модуль 1 спринт 1/users_go.csv'</span><span class="p">)</span>  <span class="c1"># Если файл локальный</span>
+        <span class="n">rides_go</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'../Модуль 1 спринт 1/rides_go.csv'</span><span class="p">)</span>
+        <span class="n">subscriptions_go</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'../Модуль 1 спринт 1/subscriptions_go.csv'</span><span class="p">)</span>
     <span class="k">except</span> <span class="ne">FileNotFoundError</span><span class="p">:</span>
         <span class="k">try</span><span class="p">:</span>
             <span class="n">users_go</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'/content/drive/MyDrive/Colab Notebooks/Модуль 1/Модуль 1 спринт 1/users_go.csv'</span><span class="p">)</span>  <span class="c1"># Для Google Colab</span>
