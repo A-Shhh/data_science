@@ -27,10 +27,10 @@
 > Анализ объявлений о продаже квартир: выявление аномалий, оценка рыночной стоимости, поиск ключевых факторов.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/3_research_on_apartments.ipynb)
@@ -43,10 +43,10 @@
 > Анализ данных компании GoFast: проверка гипотез, поиск точек роста и улучшения бизнес-процессов.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/2_gofast.ipynb)
@@ -59,11 +59,11 @@
 > Анализ пользователей стримингового сервиса: сегментация, проверка гипотез, рекомендации по продажам.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
-<img alt="SciPy" src="https://img.shields.io/badge/scipy-white?logo=scipy&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/1_streamchik.ipynb)
@@ -76,11 +76,11 @@
 > Модель для отбора коров, которые дадут не менее 6000 кг молока в год.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/4_free_field.ipynb)
@@ -93,11 +93,11 @@
 > Персонализация предложений для клиентов, чтобы увеличить покупательскую активность.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/5_one_click.ipynb)
@@ -110,11 +110,11 @@
 > Анализ факторов, влияющих на увольнение сотрудников, и разработка модели прогнозирования.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/6_hr.ipynb)
@@ -127,11 +127,11 @@
 > Определение региона с максимальной прибылью при добыче нефти. Использование Bootstrap для оценки рисков.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/7_well.ipynb)
@@ -144,11 +144,11 @@
 > Создание модели для предсказания рыночной стоимости автомобилей с пробегом.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/8_auto.ipynb)
@@ -161,11 +161,11 @@
 > Прогноз количества заказов на следующий час для оптимизации числа водителей.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/9_taxi.ipynb)
@@ -178,11 +178,11 @@
 > Модель для выявления токсичных комментариев и отправки их на модерацию.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/10_text.ipynb)
@@ -195,11 +195,11 @@
 > Модель определения возраста по фотографии лица.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
-<img alt="Keras" src="https://img.shields.io/badge/keras-white?logo=keras&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/11_cv.ipynb)
@@ -212,12 +212,12 @@
 > Оптимизация потребления электроэнергии на металлургическом комбинате.
 
 **Навыки и инструменты**:
-<img alt="Python" src="https://img.shields.io/badge/python-white?logo=python&logoColor=black&style=flat-square"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=black&style=flat-square"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=black&style=flat-square"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&style=flat-square"/>
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn&logoColor=black&style=flat-square"/>
-<img alt="Keras" src="https://img.shields.io/badge/keras-white?logo=keras&logoColor=black&style=flat-square"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/12_final.ipynb)
