@@ -7,7 +7,6 @@
 
 ## 📁 Содержание
 
-- [Yandex Music: Анализ данных](#yandex-music-анализ-данных)
 - [Исследование заемщиков](#исследование-заемщиков)
 - [Анализ рынка квартир](#анализ-рынка-квартир)
 - [GoFast: Исследование бизнеса](#gofast-исследование-бизнеса)
@@ -21,23 +20,6 @@
 - [Проект для Wikishop](#проект-для-wikishop)
 - [Компьютерное зрение](#компьютерное-зрение)
 - [Telecom Company: Удержание клиентов](#telecom-company-удержание-клиентов)
-
----
-
-## 🎵 Yandex Music: Анализ данных
-
-> Исследование данных сервиса Yandex Music: анализ поведения пользователей, поиск закономерностей и рекомендаций для улучшения сервиса.
-
-**Используемые технологии**:
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-FFB000?logo=matplotlib&logoColor=black&style=for-the-badge" alt="Matplotlib"/>
-</div>
-
-**Файлы**:
-- 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/01_yandex_music.ipynb)
-- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/01_yandex_music.html)
 
 ---
 
