@@ -36,6 +36,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/02_borrower_research.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/02_borrower_research.html)
 
 ---
 
@@ -70,12 +71,13 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/04_gofast_scooters.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/04_gofast_scooters.html)
 
 ---
 
-## 📺 Стримчик. План на 2017 год
+## 📺 Стримчик (Интернет магазин)
 
-> Анализ пользователей стримингового сервиса: сегментация, проверка гипотез, рекомендации по продажам.
+> Анализ пользователей интернет магазина: сегментация, проверка гипотез, рекомендации по продажам.
 
 **Используемые технологии**:
 <div align="left">
@@ -88,6 +90,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/05_game_store_streamchik.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/05_game_store_streamchik.html)
 
 ---
 
@@ -105,6 +108,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/21_volnyy_lug.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/21_volnyy_lug.html)
 
 ---
 
@@ -123,6 +127,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/22_online_store_v_odin_klik.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/22_online_store_v_odin_klik.html)
 
 ---
 
@@ -140,6 +145,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/23_hr_analytics.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/23_hr_analytics.html)
 
 ---
 
@@ -158,6 +164,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/31_selecting_an_oil_well.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/31_selecting_an_oil_well.html)
 
 ---
 
@@ -176,6 +183,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/32_car_sales.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/32_car_sales.html)
 
 ---
 
@@ -194,6 +202,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/33_taxi_order_forecasting.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/33_taxi_order_forecasting.html)
 
 ---
 
@@ -212,6 +221,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/41_project_for_wikishop.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/41_project_for_wikishop.html)
 
 ---
 
@@ -229,6 +239,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/42_cv_project.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/42_cv_project.html)
 
 ---
 
@@ -247,14 +258,11 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/51_telecom_company.ipynb)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/51_telecom_company.html)
 
 ---
 
 ## 📬 Связаться со мной
 
-Если вам интересны мои проекты или вы хотите сотрудничать — пишите:
-
-📧 [ash.archivess@gmail.com](mailto:ash.archivess@gmail.com)  
+🔗 [Telegram](https://t.me/Abdulagadzhi)
 🔗 [Профиль на GitHub](https://github.com/ASh-Archives)  
-
-Спасибо за просмотр! 🙌
