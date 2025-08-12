@@ -18,7 +18,7 @@
 - [Определение стоимости автомобилей](#определение-стоимости-автомобилей)
 - [Прогнозирование заказов такси](#прогнозирование-заказов-такси)
 - [Проект для Wikishop](#проект-для-wikishop)
-- [Компьютерное зрение](#компьютерное-зрение)
+- [Компьютерное зрение](##компьютерное-зрение)
 - [Telecom Company: Удержание клиентов](#telecom-company-удержание-клиентов)
 
 ---
@@ -108,11 +108,11 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/21_volnyy_lug.ipynb)
-- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/21_volnyy_lug.html)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/21_volnyy_lug.html)
 
 ---
 
-## 🛒 Online Store: Увеличение продаж
+## 🛒 Интеренет магазин «В один клик»: Увеличение продаж
 
 > Оптимизация процессов интернет-магазина: анализ данных, проверка гипотез, увеличение конверсии.
 
@@ -127,7 +127,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/22_online_store_v_odin_klik.ipynb)
-- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/22_online_store_v_odin_klik.html)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/22_online_store_v_odin_klik.html)
 
 ---
 
@@ -145,7 +145,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/23_hr_analytics.ipynb)
-- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/23_hr_analytics.html)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/23_hr_analytics.html)
 
 ---
 
@@ -164,7 +164,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/31_selecting_an_oil_well.ipynb)
-- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/31_selecting_an_oil_well.html)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/31_selecting_an_oil_well.html)
 
 ---
 
@@ -183,7 +183,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/32_car_sales.ipynb)
-- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/32_car_sales.html)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/32_car_sales.html)
 
 ---
 
@@ -202,13 +202,13 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/33_taxi_order_forecasting.ipynb)
-- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/33_taxi_order_forecasting.html)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/33_taxi_order_forecasting.html)
 
 ---
 
-## 🛍️ Проект для Wikishop
+## 🛍️ Классификация токсичных комментариев для Wikishop
 
-> Разработка аналитической системы для интернет-магазина Wikishop.
+> Разработка инструмента автоматической модерации комментариев для интернет-магазина Wikishop.
 
 **Используемые технологии**:
 <div align="left">
@@ -221,7 +221,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/41_project_for_wikishop.ipynb)
-- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/41_project_for_wikishop.html)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/41_project_for_wikishop.html)
 
 ---
 
@@ -239,7 +239,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/42_cv_project.ipynb)
-- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/42_cv_project.html)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/42_cv_project.html)
 
 ---
 
@@ -258,7 +258,7 @@
 
 **Файлы**:
 - 📄 [Jupyter Notebook (IPYNB)](https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/51_telecom_company.ipynb)
-- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/ipynb_view/51_telecom_company.html)
+- 🌐 [HTML-версия](https://html-preview.github.io/?url=https://github.com/ASh-Archives/data_science/blob/main/html_view/51_telecom_company.html)
 
 ---
 
